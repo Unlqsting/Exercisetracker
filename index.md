@@ -6,7 +6,7 @@
 
 ## Schedule
 
-| Date | Day | Time | Event | Meet At | Coordinator |
+| Dat | Day | Time | Event | Meet At | Coordinator |
 | --- | --- | --- | --- | --- | --- |
 | 6/26 | Monday | 3pm | Check in | Shasta Lakes | Frank and Judith |
 | --- | --- | 6pm | Dinner | Dining Room | Lisa |
